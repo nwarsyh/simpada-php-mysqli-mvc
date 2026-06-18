@@ -27,28 +27,33 @@ Role yang tersedia:
 10. Serta Teknologi tambahan lainnya
 
 ## Struktur Folder Project
-simpada
-├─ app/
-├── auth/
-├── config/
-├── controllers/
-├── global/
-├── helpers/
-├── libraries/
-├── models/
-├── requests/
-├── services/
-├── views/
-└── init.php
-├─ assets/
-├── mystyle/
-└── vendor/
-├─ public/
-├── img/
-├── database/
-└── media/
-├─ .htaccess
-└─ index.php
+```text
+simpada/
+├── app/
+│   ├── auth/
+│   ├── config/
+│   ├── controllers/
+│   ├── global/
+│   ├── helpers/
+│   ├── libraries/
+│   ├── models/
+│   ├── requests/
+│   ├── services/
+│   ├── views/
+│   └── init.php
+│
+├── assets/
+│   ├── mystyle/
+│   └── vendor/
+│
+├── public/
+│   ├── img/
+│   ├── database/
+│   └── media/
+│
+├── .htaccess
+└── index.php
+```
 
 ## Prasyarat menjalankan aplikasi (Prerequisites)
 1. Pastikan XAMPP Versi terbaru ;
@@ -68,15 +73,17 @@ simpada
 3. silahkan explore fitur aplikasi ;
 
 ## Akun Demo
-#### Admin
-`username : admin`
-`password : admin`
-#### Arsiparis
-`username : arsiparis`
-`password : arsiparis`
-#### Staff
-`username : staff`
-`username : staff`
+```text
+Admin
+Username : admin
+Password : admin
+Arsiparis
+Username : arsiparis
+Password : arsiparis
+Staff
+Username : staff
+Password : staff
+```
 
 ## Fitur
 1. **Libraries** untuk stuktur routing aplikasi seperti pada folder libraries seperti : `(BaseController)`, `(BaseModel)`, `(Controller)`, `(Database)` , `(Routing)`, `(Validasi)` ;
