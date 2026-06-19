@@ -1,0 +1,195 @@
+
+/*ini bagian form form login*/
+/*login versi full*/
+.login-formsatu {
+    // background: linear-gradient(135deg, #4e73df, #224abe);
+    background: linear-gradient(135deg, #8c7aaa, #cfb3f8);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login-cardsatu {
+    max-width: 400px;
+    width: 100%;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0px 4px 15px rgba(0,0,0,0.2);
+}
+.form-loginsatu:focus {
+    box-shadow: 0px 4px 15px rgba(0,0,0,0.2);
+    border-color: #aaaaaa;
+}
+.social-loginsatu {
+    border-radius: 5px;
+}
+.social-loginsatu i {
+    margin-right: 8px;
+}
+/*login dua kolom*/
+.form-logindua {
+    height: 100%;
+    margin: 0;
+}
+.login-containerdua {
+    height: 100vh;
+}
+.login-dualeft {
+    background: linear-gradient(135deg, #7e22aa, #b164dd);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 2rem;
+}
+.login-dualeft h1 {
+    font-size: 2.2rem;
+    font-weight: bold;
+}
+.login-dualeft p {
+    font-size: 1rem;
+    opacity: 0.9;
+}
+.login-duaright {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    background: linear-gradient(135deg, #f6f4f4, #e6f6f1);
+}
+.login-carddua {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    padding: 2rem;
+    background: #fff;
+}
+.form-logindua:focus {
+    box-shadow: 0px 4px 15px rgba(0,0,0,0.2);
+    border-color: #aaaaaa;
+}
+.social-logindua {
+    border-radius: 5px;
+}
+.social-logindua i {
+    margin-right: 8px;
+}
+/*style bagian 404*/
+/*style untuk 404 standar*/
+.error-page {
+    background: linear-gradient(135deg, #7e22aa, #b164dd);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+    font-family: var(--bs-body-font-family);
+}
+
+.error-card {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(6px);
+    padding: 3rem 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.25);
+    max-width: 500px;
+    width: 100%;
+    animation: fadeIn 0.8s ease-in-out;
+}
+
+.error-code {
+    font-size: 10rem;
+    font-weight: 700;
+    letter-spacing: 5px;
+    margin-bottom: 1rem;
+    color: #ffc107;
+    text-shadow: 2px 4px 8px rgba(0,0,0,0.3);
+}
+
+.error-message {
+    font-size: 1.3rem;
+    margin-bottom: 2rem;
+}
+
+.error-card a {
+    text-decoration: none;
+    margin: 0 5px;
+}
+
+.error-btn {
+    border-radius: 30px;
+    padding: 0.6rem 1.5rem;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.error-btn:hover {
+    transform: translateY(-2px);
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: scale(0.95); }
+    to { opacity: 1; transform: scale(1); }
+}
+/*style 404 page dark*/
+.error-page-dark {
+    background: radial-gradient(circle at top, #1e1e2f, #0d0d17);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #f1f1f1;
+    font-family: var(--bs-body-font-family);
+}
+
+.error-card-dark {
+    background: rgba(30, 30, 47, 0.9);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 3rem 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.6);
+    max-width: 500px;
+    width: 100%;
+    animation: fadeIn 0.8s ease-in-out;
+}
+
+.error-code-dark {
+    font-size: 6rem;
+    font-weight: 700;
+    letter-spacing: 5px;
+    margin-bottom: 1rem;
+    color: #ff4d6d;
+    text-shadow: 2px 4px 10px rgba(255, 0, 70, 0.6);
+}
+
+.error-message-dark {
+    font-size: 1.3rem;
+    margin-bottom: 2rem;
+}
+
+.error-card-dark a {
+    text-decoration: none;
+    margin: 0 5px;
+}
+
+.error-btn-dark {
+    border-radius: 30px;
+    padding: 0.6rem 1.5rem;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.error-btn-dark:hover {
+    transform: translateY(-2px);
+    opacity: 0.9;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: scale(0.95); }
+    to { opacity: 1; transform: scale(1); }
+}
