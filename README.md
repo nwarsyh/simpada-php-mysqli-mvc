@@ -124,45 +124,45 @@ Password : staff
 ### Laman Dashboard Admin dan Arsiparis
 ![Laman Dashboard Admin dan Arsiparis](public/imgforgithub/01.Laman Dashboard Admin dan Arsiparis.png)
 ### Laman Dashboard Staff
-![Laman Dashboard Staff](public/img/img_github/02.Laman Dashboard Staff.png)
+![Laman Dashboard Staff](public/imgforgithub/02.Laman Dashboard Staff.png)
 ### Laman Kelola Departemen
-![Laman Kelola Departemen](public/img/img_github/03.Laman Kelola Departemen.png)
+![Laman Kelola Departemen](public/imgforgithub/03.Laman Kelola Departemen.png)
 ### Laman Kelola Kategori
-![Laman Kelola Kategori](public/img/img_github/04.Laman Kelola Kategori.png)
+![Laman Kelola Kategori](public/imgforgithub/04.Laman Kelola Kategori.png)
 ### Laman Kelola Lokasi
-![Laman Kelola Lokasi](public/img/img_github/05.Laman Kelola Lokasi.png)
+![Laman Kelola Lokasi](public/imgforgithub/05.Laman Kelola Lokasi.png)
 ### Laman Kelola Karyawan
-![Laman Kelola Karyawan](public/img/img_github/06.Laman Kelola Karyawan.png)
+![Laman Kelola Karyawan](public/imgforgithub/06.Laman Kelola Karyawan.png)
 ### Laman Kelola Accounts
-![Laman Kelola Accounts](public/img/img_github/07.Laman Kelola Accounts.png)
+![Laman Kelola Accounts](public/imgforgithub/07.Laman Kelola Accounts.png)
 ### Laman Kelola Arsip
-![Laman Kelola Arsip](public/img/img_github/08.Laman Kelola Arsip.png)
+![Laman Kelola Arsip](public/imgforgithub/08.Laman Kelola Arsip.png)
 ### Laman Priview Arsip
-![Laman Priview Arsip](public/img/img_github/09.Laman Priview Arsip.png)
+![Laman Priview Arsip](public/imgforgithub/09.Laman Priview Arsip.png)
 ### Laman Laporan Arsip
-![Laman Laporan Arsip](public/img/img_github/10.Laman Laporan Arsip.png)
+![Laman Laporan Arsip](public/imgforgithub/10.Laman Laporan Arsip.png)
 ### Laman Cetak Laporan Arsip
-![Laman Cetak Laporan Arsip](public/img/img_github/11.Laman Cetak Laporan Arsip.png)
+![Laman Cetak Laporan Arsip](public/imgforgithub/11.Laman Cetak Laporan Arsip.png)
 ### Laman Peminjaman 
-![Laman Peminjaman](public/img/img_github/12.Laman Peminjaman.png)
+![Laman Peminjaman](public/imgforgithub/12.Laman Peminjaman.png)
 ### Laman Tambah Peminjaman 
-![Laman Tambah Peminjaman](public/img/img_github/13.Laman Tambah Peminjaman.png)
+![Laman Tambah Peminjaman](public/imgforgithub/13.Laman Tambah Peminjaman.png)
 ### Laman Cetak Invoice Peminjaman 
-![Laman Cetak Invoice Peminjaman](public/img/img_github/14.Laman Invoice Peminjaman.png)
+![Laman Cetak Invoice Peminjaman](public/imgforgithub/14.Laman Invoice Peminjaman.png)
 ### Laman Laporan Peminjaman 
-![Laman Laporan Peminjaman](public/img/img_github/15.Laman Laporan Peminjaman.png)
+![Laman Laporan Peminjaman](public/imgforgithub/15.Laman Laporan Peminjaman.png)
 ### Laman Cetak Laporan Peminjaman 
-![Laman Cetak Laporan Peminjaman](public/img/img_github/16Laman Cetak Laporan Peminjaman.png)
+![Laman Cetak Laporan Peminjaman](public/imgforgithub/16Laman Cetak Laporan Peminjaman.png)
 ### Laman Transaksi 
-![Laman Transaksi](public/img/img_github/17.Laman Transaksi.png)
+![Laman Transaksi](public/imgforgithub/17.Laman Transaksi.png)
 ### Laman Laporan Transaksi 
-![Laman Login](public/img/img_github/18.Laman Laporan  Transaksi.png)
+![Laman Login](public/imgforgithub/18.Laman Laporan  Transaksi.png)
 ### Laman Cetak Laporan Transaksi 
-![Laman Cetak Laporan Transaksi](public/img/img_github/19.Laman Cetak Laporan Transaksi.png)
+![Laman Cetak Laporan Transaksi](public/imgforgithub/19.Laman Cetak Laporan Transaksi.png)
 ### Laman Identitas Aplikasi
-![Laman Identitas Aplikasi](public/img/img_github/20.Laman Profil.png)
+![Laman Identitas Aplikasi](public/imgforgithub/20.Laman Profil.png)
 ### Laman Profil User
-![Laman Profil User](public/img/img_github/21.Laman Identitas Aplikasi.png)
+![Laman Profil User](public/imgforgithub/21.Laman Identitas Aplikasi.png)
 
 ## Sumber Referensi
 - Template refrensi dari : [SB-Admin 2](https://startbootstrap.com/theme/sb-admin-2)
