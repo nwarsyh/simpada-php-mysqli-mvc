@@ -122,7 +122,7 @@ Password : staff
 
 ## Screenshot
 ### Laman Dashboard Admin dan Arsiparis
-[Laman Dashboard Admin dan Arsiparis](public/img/img_github/01.Laman Dashboard Admin dan Arsiparis.png)
+![Laman Dashboard Admin dan Arsiparis](public/imgforgithub/01.Laman Dashboard Admin dan Arsiparis.png)
 ### Laman Dashboard Staff
 ![Laman Dashboard Staff](public/img/img_github/02.Laman Dashboard Staff.png)
 ### Laman Kelola Departemen
