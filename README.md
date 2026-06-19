@@ -122,47 +122,47 @@ Password : staff
 
 ## Screenshot
 ### Laman Dashboard Admin dan Arsiparis
-![Laman Dashboard Admin dan Arsiparis](public/imgforgithub/01.Laman_Dashboard_Admin_dan_Arsiparis.png)
+![Laman Dashboard Admin dan Arsiparis](public/media/screenpicture/01.Laman_Dashboard_Admin_dan_Arsiparis.png)
 ### Laman Dashboard Staff
-![Laman Dashboard Staff](public/imgforgithub/02.Laman Dashboard Staff.png)
+![Laman Dashboard Staff](public/media/screenpicture/02.Laman_Dashboard_Staff.png)
 ### Laman Kelola Departemen
-![Laman Kelola Departemen](public/imgforgithub/03.Laman Kelola Departemen.png)
+![Laman Kelola Departemen](public/media/screenpicture/03.Laman_Kelola_Departemen.png)
 ### Laman Kelola Kategori
-![Laman Kelola Kategori](public/imgforgithub/04.Laman Kelola Kategori.png)
+![Laman Kelola Kategori](public/media/screenpicture/04.Laman_Kelola_Kategori.png)
 ### Laman Kelola Lokasi
-![Laman Kelola Lokasi](public/imgforgithub/05.Laman Kelola Lokasi.png)
+![Laman Kelola Lokasi](public/media/screenpicture/05.Laman_Kelola_Lokasi.png)
 ### Laman Kelola Karyawan
-![Laman Kelola Karyawan](public/imgforgithub/06.Laman Kelola Karyawan.png)
+![Laman Kelola Karyawan](public/media/screenpicture/06.Laman_Kelola_Karyawan.png)
 ### Laman Kelola Accounts
-![Laman Kelola Accounts](public/imgforgithub/07.Laman Kelola Accounts.png)
+![Laman Kelola Accounts](public/media/screenpicture/07.Laman_Kelola_Accounts.png)
 ### Laman Kelola Arsip
-![Laman Kelola Arsip](public/imgforgithub/08.Laman Kelola Arsip.png)
+![Laman Kelola Arsip](public/media/screenpicture/08.Laman_Kelola_Arsip.png)
 ### Laman Priview Arsip
-![Laman Priview Arsip](public/imgforgithub/09.Laman Priview Arsip.png)
+![Laman Priview Arsip](public/media/screenpicture/09.Laman_Priview_Arsip.png)
 ### Laman Laporan Arsip
-![Laman Laporan Arsip](public/imgforgithub/10.Laman Laporan Arsip.png)
+![Laman Laporan Arsip](public/media/screenpicture/10.Laman_Laporan_Arsip.png)
 ### Laman Cetak Laporan Arsip
-![Laman Cetak Laporan Arsip](public/imgforgithub/11.Laman Cetak Laporan Arsip.png)
+![Laman Cetak Laporan Arsip](public/media/screenpicture/11.Laman_Cetak_Laporan_Arsip.png)
 ### Laman Peminjaman 
-![Laman Peminjaman](public/imgforgithub/12.Laman Peminjaman.png)
+![Laman Peminjaman](public/media/screenpicture/12.Laman_Peminjaman.png)
 ### Laman Tambah Peminjaman 
-![Laman Tambah Peminjaman](public/imgforgithub/13.Laman Tambah Peminjaman.png)
+![Laman Tambah Peminjaman](public/media/screenpicture/13.Laman_Tambah_Peminjaman.png)
 ### Laman Cetak Invoice Peminjaman 
-![Laman Cetak Invoice Peminjaman](public/imgforgithub/14.Laman Invoice Peminjaman.png)
+![Laman Cetak Invoice Peminjaman](public/media/screenpicture/14.Laman_Invoice_Peminjaman.png)
 ### Laman Laporan Peminjaman 
-![Laman Laporan Peminjaman](public/imgforgithub/15.Laman Laporan Peminjaman.png)
+![Laman Laporan Peminjaman](public/media/screenpicture/15.Laman_Laporan_Peminjaman.png)
 ### Laman Cetak Laporan Peminjaman 
-![Laman Cetak Laporan Peminjaman](public/imgforgithub/16Laman Cetak Laporan Peminjaman.png)
+![Laman Cetak Laporan Peminjaman](public/media/screenpicture/16.Laman_Cetak_Laporan_Peminjaman.png)
 ### Laman Transaksi 
-![Laman Transaksi](public/imgforgithub/17.Laman Transaksi.png)
+![Laman Transaksi](public/media/screenpicture/17.Laman_Transaksi.png)
 ### Laman Laporan Transaksi 
-![Laman Login](public/imgforgithub/18.Laman Laporan  Transaksi.png)
+![Laman Login](public/media/screenpicture/18.Laman_Laporan_Transaksi.png)
 ### Laman Cetak Laporan Transaksi 
-![Laman Cetak Laporan Transaksi](public/imgforgithub/19.Laman Cetak Laporan Transaksi.png)
+![Laman Cetak Laporan Transaksi](public/media/screenpicture/19.Laman_Cetak_Laporan_Transaksi.png)
 ### Laman Identitas Aplikasi
-![Laman Identitas Aplikasi](public/imgforgithub/20.Laman Profil.png)
+![Laman Identitas Aplikasi](public/media/screenpicture/20.Laman_Profil.png)
 ### Laman Profil User
-![Laman Profil User](public/imgforgithub/21.Laman Identitas Aplikasi.png)
+![Laman Profil User](public/media/screenpicture/21.Laman_Identitas_Aplikasi.png)
 
 ## Sumber Referensi
 - Template refrensi dari : [SB-Admin 2](https://startbootstrap.com/theme/sb-admin-2)
